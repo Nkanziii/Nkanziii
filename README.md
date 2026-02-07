@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @Nkanziii
-- 👀 I’m interested in mixing my creative animation background with my coding abilities to create beautifully designed web pages, as a web developer.
-- 🌱 I’m currently learning javascript, html, animating with css.
-- 💞️ I’m looking to collaborate on projects together.
-- 📫 How to reach me through my social media ig @Nkanziii
+👋 Hi, I’m @Nkanziii
+
+🎨 I love blending my creative animation background with coding to craft beautifully designed, interactive web experiences.
+
+🎓 Currently diving into MSc Creative Computing at University of the Arts London.
+
+💡 I enjoy exploring code through creative experiments, animations, and playful designs.
+
+🌱 Currently leveling up my JavaScript, HTML, and CSS animation skills.
+
+💞️ Always excited to collaborate on fun, creative projects!
+
+📫 Hit me up on Instagram: @Nkanziii
 
 <!---
 Nkanziii/Nkanziii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
