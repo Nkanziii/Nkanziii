@@ -7,8 +7,7 @@
 </p>
 
 <p align='center'>
-  Creative coder • Front-End Developer • Studying MSc Creative Computing at University Of Arts London
-</p>
+  Creative coder • Front-End Developer 
 
 ---
 <h3>About me</h3>
