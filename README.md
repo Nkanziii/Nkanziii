@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  <i>Logic will get you from A to B. Imagination will take you everywhere.</i>
+  <i>You have power over your mind—not outside events. Realize this, and you will find strength.</i>
 </p>
 
 <p align='center'>
