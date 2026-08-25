@@ -25,13 +25,18 @@
 
 <h3>💻 Languages</h3>
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 <h3>🧩 Frameworks & Libraries</h3>
 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge)
 ![p5.js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 
 <h3>🎨 Design Tools</h3>
@@ -57,12 +62,11 @@
 
 <h2>🧠 Currently Exploring</h2>
 <ul>
-  <li>Creating immersing visuals with p5.js</li>
-  <li>Exploring the game-engine unity and diving into c#</li>
-  <li>Creating a sensored game controller with Arduino</li>
-  <li>Working in a team to develop our own versions of famouse arcade game Tetris through Unity</li>
-  <li>Exploring touchDesigner</li>
-  <li>Learning about network and APIs</li>
+  <li>Fine-tuning transformers and building multi-agent LLM systems for my MSc thesis</li>
+  <li>Deepening PyTorch and vector search fundamentals</li>
+  <li>Exploring agentic AI tooling and MCP (Model Context Protocol) workflows</li>
+  <li>Completing SQL, with Docker and LangChain next on the roadmap</li>
+  <li>Still building with p5.js, Unity, and TouchDesigner as a creative outlet</li>
 </ul>
 
 ---
