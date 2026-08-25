@@ -11,14 +11,13 @@
 
 ---
 <h3>About me</h3>
-<ul>
-  <li> 🎨I love blending my creative animation background with coding to craft beautifully designed, interactive experiences.</li>
-  <li> 🎓 Currently studying into MSc Creative Computing at University of the Arts London.</li>
-  <li> 💡 I enjoy exploring code through creative experiments, animations, and playful designs.</li>
-  <li> 🌱 Currently leveling up my JavaScript, HTML, CSS, p5.js, unity and touchDesigner skills</li>
-  <li> 💞️ Always excited to collaborate on fun, creative projects!</li>
-  <li> 📫 Hit me up on Instagram: @Nkanziii</li>
-</ul>
+
+* 🤖 AI/ML engineer building LLM, RAG, and multi-agent systems from first principles — no frameworks until I understand what they're abstracting.
+* 🎓 MSc Creative Computing @ University of the Arts London — thesis exploring AI trust calibration through multi-agent architecture.
+* 🧠 Recently: built a RAG pipeline from scratch (embeddings + cosine similarity, hand-coded in NumPy), and fine-tuned a transformer for emotion classification.
+* 🛠️ Currently deepening PyTorch, vector search, and agentic AI tooling — with a background in front-end dev and creative coding that means I ship what I build, not just prototype it.
+* 💬 Always up for a chat about AI, agents, or creative tech — feel free to reach out.
+* 📫 nikikhanezai@gmail.com
 
 ---
 
