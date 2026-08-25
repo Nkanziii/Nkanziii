@@ -7,8 +7,9 @@
 </p>
 
 <p align='center'>
-  Creative coder • Front-End Developer 
-
+ <strong>AI/ML Engineer</strong> · Creative Technologist
+</p>
+  
 ---
 <h3>About me</h3>
 
